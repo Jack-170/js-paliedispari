@@ -1,2 +1,10 @@
-
+.risultato span {
+    display: none;
+  }
+.palindroma {
+    color: green;
+  }
+.non-palindroma {
+    color: red;
+  }
 
